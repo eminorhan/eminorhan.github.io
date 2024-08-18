@@ -1,6 +1,6 @@
 ## **Emin Orhan**
 
-[Research blog](http://severelytheoretical.wordpress.com/)  |  [GitHub](https://github.com/eminorhan)  |  [Google Scholar](https://scholar.google.com/citations?user=YkT8jLoAAAAJ\&hl=en)
+[Posts](https://eminorhan.github.io/posts/)  |  [GitHub](https://github.com/eminorhan)  |  [Google Scholar](https://scholar.google.com/citations?user=YkT8jLoAAAAJ\&hl=en)
 
 ## **Research**
 
